@@ -40,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Q11Kt">
+  <component name="RunManager" selected="Kotlin.Q12Kt">
     <configuration name="Q10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q10Kt" />
       <module name="prac1" />
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q7Kt" />
+    <configuration name="Q12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q12Kt" />
       <module name="prac1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Q12Kt" />
         <item itemvalue="Kotlin.Q11Kt" />
         <item itemvalue="Kotlin.Q10Kt" />
         <item itemvalue="Kotlin.Q9Kt" />
         <item itemvalue="Kotlin.Q8Kt" />
-        <item itemvalue="Kotlin.Q7Kt" />
       </list>
     </recent_temporary>
   </component>
