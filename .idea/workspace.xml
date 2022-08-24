@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45f7fa30-d4bd-4723-aca2-7d806eca6ee6" name="Changes" comment="q5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q6.kt" afterDir="false" />
+    <list default="true" id="45f7fa30-d4bd-4723-aca2-7d806eca6ee6" name="Changes" comment="q6">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Q6Kt">
-    <configuration name="Q2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2Kt" />
-      <module name="prac1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Q7Kt">
     <configuration name="Q3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3Kt" />
       <module name="prac1" />
@@ -74,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q7Kt" />
+      <module name="prac1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Q7Kt" />
         <item itemvalue="Kotlin.Q6Kt" />
         <item itemvalue="Kotlin.Q5Kt" />
         <item itemvalue="Kotlin.Q4Kt" />
         <item itemvalue="Kotlin.Q3Kt" />
-        <item itemvalue="Kotlin.Q2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661314294605</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="q5">
+      <created>1661314638035</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661314638035</updated>
+    </task>
+    <task id="LOCAL-00011" summary="q5">
+      <created>1661314655937</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661314655937</updated>
+    </task>
+    <task id="LOCAL-00012" summary="q6">
+      <created>1661314675756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661314675756</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +197,8 @@
     <MESSAGE value="hii" />
     <MESSAGE value="q3" />
     <MESSAGE value="q5" />
-    <option name="LAST_COMMIT_MESSAGE" value="q5" />
+    <MESSAGE value="q6" />
+    <option name="LAST_COMMIT_MESSAGE" value="q6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -197,6 +220,14 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/q7.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
