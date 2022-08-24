@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45f7fa30-d4bd-4723-aca2-7d806eca6ee6" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q3.kt" afterDir="false" />
+    <list default="true" id="45f7fa30-d4bd-4723-aca2-7d806eca6ee6" name="Changes" comment="q3">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Q3Kt">
+  <component name="RunManager" selected="Kotlin.Q4Kt">
     <configuration name="Q1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1Kt" />
       <module name="prac1" />
@@ -60,8 +60,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4Kt" />
+      <module name="prac1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Q4Kt" />
         <item itemvalue="Kotlin.Q3Kt" />
         <item itemvalue="Kotlin.Q2Kt" />
         <item itemvalue="Kotlin.Q1Kt" />
@@ -112,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661280579039</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="q3">
+      <created>1661281072929</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281072929</updated>
+    </task>
+    <task id="LOCAL-00007" summary="q3">
+      <created>1661281603937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281603937</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="hii" />
+    <MESSAGE value="q3" />
+    <option name="LAST_COMMIT_MESSAGE" value="q3" />
   </component>
 </project>
