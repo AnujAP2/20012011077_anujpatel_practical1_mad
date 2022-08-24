@@ -40,14 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Q8Kt">
-    <configuration name="Q4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q4Kt" />
-      <module name="prac1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Q9Kt">
     <configuration name="Q5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q5Kt" />
       <module name="prac1" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q9Kt" />
+      <module name="prac1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Q9Kt" />
         <item itemvalue="Kotlin.Q8Kt" />
         <item itemvalue="Kotlin.Q7Kt" />
         <item itemvalue="Kotlin.Q6Kt" />
         <item itemvalue="Kotlin.Q5Kt" />
-        <item itemvalue="Kotlin.Q4Kt" />
       </list>
     </recent_temporary>
   </component>
