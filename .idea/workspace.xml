@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45f7fa30-d4bd-4723-aca2-7d806eca6ee6" name="Changes" comment="q9">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="45f7fa30-d4bd-4723-aca2-7d806eca6ee6" name="Changes" comment="q12">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/q13.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Q12Kt">
+  <component name="RunManager" selected="Kotlin.Q13Kt">
     <configuration name="Q10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q10Kt" />
       <module name="prac1" />
@@ -62,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q8Kt" />
+    <configuration name="Q13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q13Kt" />
       <module name="prac1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Q13Kt" />
         <item itemvalue="Kotlin.Q12Kt" />
         <item itemvalue="Kotlin.Q11Kt" />
         <item itemvalue="Kotlin.Q10Kt" />
         <item itemvalue="Kotlin.Q9Kt" />
-        <item itemvalue="Kotlin.Q8Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661316272743</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="q11">
+      <created>1661316895003</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661316895003</updated>
+    </task>
+    <task id="LOCAL-00017" summary="q12">
+      <created>1661317000347</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661317000347</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +234,9 @@
     <MESSAGE value="q6" />
     <MESSAGE value="q7" />
     <MESSAGE value="q9" />
-    <option name="LAST_COMMIT_MESSAGE" value="q9" />
+    <MESSAGE value="q11" />
+    <MESSAGE value="q12" />
+    <option name="LAST_COMMIT_MESSAGE" value="q12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -252,6 +266,14 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/q11.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
